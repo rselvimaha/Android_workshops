@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageThread</string>
+    <string name="enter_url">Enter the URL of the image</string>
+    <string name="fetch">Fetch</string>
+</resources>
