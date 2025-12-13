@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecordAudio</string>
+    <string name="start_record_audio">Start Button</string>
+    <string name="stop_record_audio">Stop Button</string>
 </resources>
